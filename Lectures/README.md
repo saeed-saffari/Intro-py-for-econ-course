@@ -20,6 +20,10 @@
   - [Pandas (part 02)](https://github.com/saeed-saffari/Intro-py-for-econ-course/blob/main/Lectures/08.%20Pandas%2002.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Intro-py-for-econ-course/blob/main/Lectures/08.%20Pandas%2002.ipynb)
   
   - [Pandas (part 03)](https://github.com/saeed-saffari/Intro-py-for-econ-course/blob/main/Lectures/09.%20Pandas%2003.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Intro-py-for-econ-course/blob/main/Lectures/09.%20Pandas%2003.ipynb)
+  
+  - [Markdown](https://github.com/saeed-saffari/Intro-py-for-econ-course/blob/main/Lectures/11.%20Markdown.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Intro-py-for-econ-course/blob/main/Lectures/11.%20Markdown.ipynb)
+  
+  - [SumPy](https://github.com/saeed-saffari/Intro-py-for-econ-course/blob/main/Lectures/12.%20SymPy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Intro-py-for-econ-course/blob/main/Lectures/12.%20SymPy.ipynb) 
  
  ### Projects  
 - [Project 01](https://github.com/saeed-saffari/Intro-py-for-econ-course/blob/main/Lectures/Project%2001%20-%20Covid19%20confirmed%20cases.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Intro-py-for-econ-course/blob/main/Lectures/Project%2001%20-%20Covid19%20confirmed%20cases.ipynb)
