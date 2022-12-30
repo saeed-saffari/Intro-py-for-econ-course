@@ -11,6 +11,6 @@ This repository contains the contents of the "Python for Economics" course at, F
 4. Improve your **search skill**. You can use [Stack Overflow](https://stackoverflow.com/) and [GitHub](https://github.com/).
  
 ## Required links
--  Ask Questions by sending an email to:  m.saeed.saffari@gmail.com
-- Access [link]() to course videos (send the request to get access.)
+- Ask Questions by sending an email to:  m.saeed.saffari@gmail.com
+- Access [link](https://drive.google.com/drive/folders/1MgZACB_rizYz962esiTy6skxBd0d9RV3?usp=sharing) to course videos (send the request to get access.)
 
